@@ -25,167 +25,93 @@
               </div>
 
 
-    <h2><span>𝐆𝐎𝐋𝐃𝐄𝐍 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃</span></h2>
-
-<div id="clock" >
-        <span class="hours">00</span>:<span class="minutes">00</span>:<span class="seconds">00</span>
-    </div>
-
-  </div>
-
-  <div class="session-container">
-    <p>Welcome To Golden Queen MD <br> User Whatsapp Bot <br><br>
-╭───────────❂<br>
-⚙️0*𝘚𝘦𝘵𝘵𝘪𝘯𝘨𝘴 𝘔𝘦𝘯𝘶*<br>
-👤1 *𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶*<br>
-👥2 *𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶*<br>
-🔄3 *𝘊𝘰𝘯𝘷𝘦𝘵𝘦𝘳 𝘔𝘦𝘯𝘶*<br>
-📥4 *𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘔𝘦𝘯𝘶*<br>
-🔍5 *𝘚𝘦𝘢𝘳𝘤𝘩 𝘔𝘦𝘯𝘶*<br>
-🎛️6 *𝘖𝘵𝘩𝘦𝘳𝘴 𝘔𝘦𝘯𝘶*<br>
-📰7 *𝘕𝘦𝘸𝘴 𝘔𝘦𝘯𝘶*<br>
-╰───────────❂ </p>
-    <div class="gift-container">
-<img src="https://i.ibb.co/8nznKHq3/VID-20250131-WA0180-ezgif-com-speed.gif" alt="VID-20250131-WA0180-ezgif-com-speed" border="0" class="rounded-gift">
-
-</div>
-</div>
+GOLDEN QUEEN MD
 
 
 
+Golden Queen MD WhatsApp bot එක සඳහා 🚀
 
-    <h1>SESSION SECTION</h1>
+📌 Features
 
-<div></div>
-    <a href="/qr" class="btn-container"  target="_blank"> <span>QR Scanner</span> </a> <br>
-    <a href="/pair" class="rbtn-container"  target="_blank"> <span>Pair Code</span> </a> <br>
+🤖 Auto Chat System
 
+🎵 Media Downloading
 
+🔍 Search Functionality
 
+⚙️ Advanced Bot Settings
 
-    <div></div>
-
-
-
-    <h1>SELECTION DEPLOY PLATFROM</h1>
+📢 News & Updates
 
 
+🚀 Deployment Platforms
 
- <div class="btn1-container">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/vimanew/GOLDEN-QUEEN-MD.git" class="btn1 heroku-btn1">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku Logo">
-            𝐇𝐄𝐑𝐎𝐊𝐔
-        </a>
-        <a href="https://github.com/vimanew/GOLDEN-QUEEN-MD/generate" class="btn1 github-btn1">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo">
-            𝐍𝐄𝐖 𝐅𝐎𝐑𝐊
-        </a>
-    </div>
-
-    <h1>ERROR Report</h1>
+🔹 Deploy on Heroku
 
 
 
+🔹 Fork on GitHub
 
 
 
-    <a href="https://wa.me/94762983012?text=Need_Help_With_Bot" class="btn-container" target="_blank"> <span>ERROR</span> </a> <br>
+🔑 How to Setup
+
+Step 1: Pairing Code
+
+1. Click Pair Code button.
+
+
+2. Enter your phone number with (94) and submit.
+
+
+3. Copy the Pairing Code and paste it in WhatsApp's "Link Device" option.
 
 
 
-      <h1>𝐆𝐎𝐋𝐃𝐄𝐍 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃 𝐆𝐔𝐈𝐃</h1>
+Step 2: Get MongoDB URL
 
-    <div class="video-title">
-        𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐔𝐑𝐋 𝐂𝐑𝐄𝐀𝐓𝐄 𝐕𝐈𝐃𝐄𝐎
-     </div>
-     <div class="video-container" >
-        <!-- Embed YouTube video -->
-        <iframe src="https://www.youtube.com/embed/b-KsFDgIbOY?si=pLP-IqdwMjmg7FRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-        <br>
-            <a href="https://www.mongodb.com/cloud/atlas/register" class="btn-container" target="_blank"> <span>Register MongoDB </span> </a> 
+1. Watch the guide video: MongoDB Setup
 
 
-        <div class="video-title" >
-        𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘 𝐆𝐔𝐈𝐃 𝐕𝐈𝐃𝐄𝐎</div>
-    <div class="video-container" >
-            <iframe src="https://www.youtube.com/embed/ESfQj3fA8OU?si=HWSBgqOJ90rxYj7u" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <br>
-
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/Suranga1/GoldenQueens-MD.git'" class="hbtn-container"  target="_blank"> <span>Deploy Heroku</span> </a> 
-<br>
-<br>
+2. Copy your MongoDB URL.
 
 
 
-        <h1>𝘎𝘰𝘭𝘥𝘦𝘯 𝘘𝘶𝘦𝘦𝘯 𝘔𝘋 𝘎𝘶𝘪𝘥 𝘓𝘪𝘯𝘦</h1>
+Step 3: Deploy the Bot
+
+1. Choose a platform (Heroku, Render, etc.).
 
 
-  <div class="session-container">
+2. Paste your Session ID and MongoDB URL.
+
+
+3. Click Deploy and wait for 2-3 minutes.
+
+
+4. Test using .menu or .alive command.
+
+
+
+🎥 Video Guides
+
+MongoDB URL Creation
+
+
+
+Bot Deployment Guide
+
+
+
+📞 Contact Developer
+
+WhatsApp
+
+📲 Social Media
 
 
 
 
-        <p>Step1
+---
 
+🔥 Golden Queen MD - Your Ultimate WhatsApp Bot!
 
-<br>
-<br>
-Pair button click කර (94) සමග <br>
-ඔබේ දුරකථන අංකය ඇතුලත් කරන්න <br>
-ඉන් පසු Submit කරන්න  එන<br>
- Pairing Code එක Clipbord එකට <br>
-Copy කරගෙන Bot Deploy කරන <br>
-Whatsapp එක ගොස් link device වල <br>
-link with phone number instead වල<br>
- clipbord එකට copy කරන් අපු<br>
- pairing code එක enter කරන්න<br>
-  Device එක login උනාට පසුව<br>
- ඔබගෙ Whatsapp number එකට<br>
- Session id එක ලැබෙනු ඇත එම <br>
-Session id  එක clipbord එකට<br>
- කොපිකරගන්න.
-<br><br>
-</p>
-
-<div class="gift-container">
-<img src="https://i.ibb.co/8nznKHq3/VID-20250131-WA0180-ezgif-com-speed.gif" alt="VID-20250131-WA0180-ezgif-com-speed" border="0" class="rounded-gift">
-
-</div>
-</div>
-<p>
-Step 2
- <br>
- <br>
-(MongoDB Data base url)
- Video එක තුල Mongodb url එක ගන්න විදිය A to Z කියල දෙනවා විඩියො එක බලල MongoDb url එක ඇරගෙන Url එක clipbord එකට copy කරගන්න
-<br><br>
-
-step 3
-<br>
-<br>
-Bot  Deploy කරන platform එක තොරගන්න (උ.දා - Heroku,Render) අදාල button එක click කර එම platform එකට ගොස් session id කියල තියෙන තැනට Clipbord එකට copy කරන් ආපු session id එක pest කරන්න mongodb url කියල තැනට Step2 එකෙදි Clip bord එකට copy කරගත්  Mongodb database url එක Pest කරන්න ඉන්පසු  Deploy button එක click කරන්න විනාඩි 2-3 අතර කාලයකදි bot ව deploy වෙනු ලැබේ බොට් ව වැඩද බැලීමට  .menu .alive යන comnand බාවිතා කර බලන්න</p>
-
-  <h1> Golden Queen Social Media</h1>
-
-
-   <div class="social-buttons">
-        <a href="#" target="_blank">
-            <img src="https://i.ibb.co/cSKmVr8H/Golden-Queen-MD-VIMAMODS-d3a133e5fb8f3bbe.jpg" alt="Facebook" class="fit-image">>
-        </a>
-        <a href="#" target="_blank">
-            <img src="https://i.ibb.co/99CsHKJz/Golden-Queen-MD-VIMAMODS-0431058706166c62.jpg" alt="YouTube" class="fit-image">
-        </a>
-        <a href="https://www.tiktok.com" target="_blank">
-            <img src="https://i.ibb.co/bgjzbM84/Golden-Queen-MD-VIMAMODS-3036b7916d739e1a.jpg" alt="TikTok" class="fit-image">
-        </a>
-        <a href="https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28" target="_blank">
-            <img src="https://i.ibb.co/W4LwvQwj/Golden-Queen-MD-VIMAMODS-e06ea640eaf77737.jpg" alt="WhatsApp" class="fit-image">
-        </a>
-    </div> 
-<div class="container">
-  <h1>𝘎𝘰𝘭𝘥𝘦𝘯 𝘘𝘶𝘦𝘦𝘯 𝘛𝘦𝘢𝘮</h1>
-
-  <!-- Developers Section -->
-  <h2>𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳</h2>
