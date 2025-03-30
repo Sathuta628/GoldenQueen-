@@ -11,23 +11,6 @@
 </head>
 <body>
 
-    <header > 
-       <div class='h1h'> <h2> 𝐆𝐎𝐋𝐃𝐄𝐍 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃 </h2></div>
-        <button class="menu-btn" onclick="toggleMenu()">☰</button>
-        <nav id="menu">
-            <ul>
-            <li><a href="#home" onclick="closeMenu()">🏠 Home</a></li>
-            <li><a href="#services" onclick="closeMenu()">🛠 Services</a></li>
-                        <li><a href="#news" onclick="closeMenu()">📰 News</a></li>
-            <li><a  href="#contact" onclick="closeMenu()">📞 Contact Developer</a></li>
-
-            </ul>
-        </nav>
-    </header>
-<audio autoplay >
-        <source src="https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Audio/AUD-20250129-WA0006%20(online-audio-converter.com)%20(1).mp3" type="audio/mpeg">
-        ඔබේ browser එක Audio ප්ලේ කරන්නට මූලික නොවේ!
-    </audio>
 
 
   <div class="content" >
