@@ -9,12 +9,6 @@
       "description": "Your Heroku app name",
       "required": true
     },
-    "GITHUB_TOKEN": {
-      "description": "GitHub Personal Access Token",
-      "required": true,
-      "value": "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"
-    },
-
     "SESSION_ID": {
       "description": "Add Golden Queen Session ID",
       "required": true
@@ -24,6 +18,13 @@
       "required": true
     }
   },
+    "formation": [
+    {
+      "process": "web",
+      "quantity": 1,
+      "size": "standard-1x"
+    }
+  ],
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
